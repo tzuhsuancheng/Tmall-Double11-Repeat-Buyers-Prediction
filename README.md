@@ -1,7 +1,7 @@
 # Tmall-Double11-Repeat-Buyers-Prediction
 
 ## Problem description
-- Topic: Predicting Loyal Customers for Sellers on Tmall to Increase Return on Promoting Cost
+- **Topic: Predicting Loyal Customers for Sellers on Tmall to Increase Return on Promoting Cost**
 
 - **Business Goal**
 
